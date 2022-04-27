@@ -8,7 +8,7 @@
 
 经测试本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=simpxing/0427)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/simpxing/0427)
 
 ## 一键部署失效解决方法
 
